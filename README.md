@@ -1,4 +1,5 @@
 # MovieClone
+private repo
 Click on the link: https://dbmi-mainclone01-7pp98gus2-aritrichatterjee9.vercel.app/
 
 ![image](https://github.com/aritrichatterjee9/MovieClone/assets/73156770/29460ba0-6074-4d0f-93d2-c0c3f614ca42)
